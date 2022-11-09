@@ -1,3 +1,13 @@
+/* lembrando que quando for publicar no github usar todos os passos
+criar repositorio no git
+usar o comando git ini na pasta criada (usada somente na criação do projeto)
+git remote add origin + o link da autenticação (somente quando for adicionar a primeira vez)
+git add .
+git status 
+git commit -m "texto"
+git push -u origin master (-u origin master somente quando for vincular a primeira vez depois so usar o push)*/
+
+
 // const é uma variavel imutavel.
 
 const cidade = "Uberaba, MG";
